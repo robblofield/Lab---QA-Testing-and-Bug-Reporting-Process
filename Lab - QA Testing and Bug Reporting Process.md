@@ -1,8 +1,7 @@
 
-# 🎮 Game QA Playtesting and Bug Reporting Process
+# Lab - QA Testing and Bug Reporting Process
 
-## Purpose
-To establish a clear, standardized process for the **systematic playtesting, bug identification, documentation, and reporting** to ensure the game meets the highest quality standards before release.
+*In this lab we are aiming to establish a clear, standardized process for the **systematic playtesting, bug identification, documentation, and reporting** to ensure the game meets the highest quality standards before release/exhibition.*
 
 ---
 
@@ -21,19 +20,21 @@ To establish a clear, standardized process for the **systematic playtesting, bug
 ---
 
 ## 2. Playtesting Procedure
-**Session Rules:**
+Each phase of playtesting is likely to have different rules or a specific structure based on what the test is looking to observe in user-centric traits such as behaviour/enjoyment/dificulty etc. and technical aspects such as game stability, glitches/bugs etc. You will need to adapt the session rules accordingly for the specific session.
+
+**Session Rules (Example):**
 - Follow assigned test cases **methodically** before free exploration.
 - Stay consistent with **documenting time spent** per section/level.
 - **Record** abnormal behavior even if unsure whether it's a bug.
 - Prioritize **reproducibility**: if you spot an issue, **retest** it immediately.
 
-**Play Modes to Cover:**
+**Play Modes to Cover (Example):**
 - Story Mode / Main Progression
 - Multiplayer (if applicable)
 - Settings and UI/UX Testing
 - Edge cases (e.g., quitting mid-save, changing resolution in gameplay)
 
-**Focus Areas:**
+**Focus Areas (Example):**
 - Stability (crashes, freezes)
 - Performance (frame rate drops, loading times)
 - Gameplay (mechanics, balance, sequence breaks)
@@ -112,7 +113,7 @@ At the end of each week or milestone:
 
 ---
 
-# ✅ Key Rules to Remember
+# Key Rules to Remember
 - **Be Objective**: Focus on facts, not opinions (unless clearly labeled as suggestions).
 - **Be Thorough**: Better to over-report than to miss a serious issue.
 - **Be Clear**: Reports should be understandable to anyone, not just developers.
