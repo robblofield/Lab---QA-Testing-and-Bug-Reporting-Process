@@ -1,5 +1,5 @@
 
-# 🐞 Bug Severity Classification Cheat Sheet
+# Bug Severity Classification Cheat Sheet
 
 ## Severity Levels
 
@@ -32,8 +32,8 @@
 - Improvement proposals
 - UX enhancements
 - Minor balancing tweaks
-- Example: Suggest adding a "retry mission" button
+- Example: Suggest adding a "retry level" button
 
 ---
 
-**Note:** When unsure, always classify conservatively and leave a comment for review.
+**Note:** When unsure, always classify conservatively and leave a comment for review. Contact Rob or Shaz if unsure and we can assist in classifying the bug. cheers.
