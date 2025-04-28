@@ -1,5 +1,5 @@
 
-# Bug Severity Classification Cheat Sheet
+# RaRa Games - Bug Severity Classification Cheat Sheet
 
 ## Severity Levels
 
