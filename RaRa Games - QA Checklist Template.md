@@ -1,5 +1,11 @@
 
-# ✅ Game QA Checklist Template
+# RaRa Games - QA Checklist Template
+
+Thanks for checking out our game. Tomebound is currently under development but we're hoping to find issues with the project by testing early and often. please use this checklist to help standardise your play session as best as possible - Thanks! Rob and Shaz
+
+## Testing Specifics
+QA Tester: NAME
+Test Date: DD/MM/YY
 
 ## General Preparation
 - [ ] Installed latest build (version: ___)
@@ -44,10 +50,10 @@
 - [ ] Colorblind modes tested
 - [ ] Remappable controls tested
 
-## Multiplayer (if applicable)
-- [ ] Matchmaking works
-- [ ] Network stability under load
-- [ ] Synchronization between players
+## Multiplayer
+- [ ] Controller Drop In/Out working
+- [ ] Both players have stable control
+- [ ] Both players can trigger level progression events
 
 ## Regression
 - [ ] Previously reported bugs verified as fixed
